@@ -1,0 +1,12 @@
+{
+  "name": "job-search-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/fetch-jobs.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
