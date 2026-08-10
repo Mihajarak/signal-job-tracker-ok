@@ -1,0 +1,27 @@
+{
+  "keywords": [
+    "web developer", "web development", "website", "frontend", "front-end", "backend", "full stack", "fullstack",
+    "next.js", "nextjs", "react", "typescript", "javascript", "node.js", "nodejs",
+    "flutter", "react native", "mobile app", "android", "ios app",
+    "photography", "photo editing", "photo retouch", "lightroom",
+    "video editing", "video editor", "premiere pro", "after effects",
+    "content writing", "copywriting", "blog writer", "article writer",
+    "electronics repair", "phone repair", "circuit repair"
+  ],
+  "feeds": {
+    "upworkRss": [
+      "PASTE_YOUR_UPWORK_SAVED_SEARCH_RSS_URL_HERE_1",
+      "PASTE_YOUR_UPWORK_SAVED_SEARCH_RSS_URL_HERE_2"
+    ],
+    "weworkremotely": [
+      "https://weworkremotely.com/categories/remote-programming-jobs.rss",
+      "https://weworkremotely.com/categories/remote-design-jobs.rss",
+      "https://weworkremotely.com/categories/remote-writing-jobs.rss"
+    ]
+  },
+  "apis": {
+    "remotive": "https://remotive.com/api/remote-jobs",
+    "remoteok": "https://remoteok.com/api"
+  },
+  "maxStoredJobs": 500
+}
