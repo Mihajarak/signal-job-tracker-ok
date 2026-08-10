@@ -1,0 +1,55 @@
+name: Fetch Freelance Jobs
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # isaky ny 6 ora
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run job scan
+        run: npm run fetch
+
+      - name: Check for new jobs
+        id: check
+        run: |
+          if [ -s data/new-jobs.md ]; then
+            echo "hasNew=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "hasNew=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send email notification
+        if: steps.check.outputs.hasNew == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Asa Freelance Vaovao hita!"
+          to: ${{ secrets.MAIL_TO }}
+          from: Job Search Bot
+          body: file://data/new-jobs.md
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update job listings"
+          file_pattern: "data/jobs.json data/new-jobs.md"
