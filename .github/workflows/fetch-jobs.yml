@@ -2,7 +2,7 @@ name: Fetch Freelance Jobs
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # isaky ny 6 ora
+    - cron: "*/30 * * * *"   # isaky ny 30 minitra
   workflow_dispatch: {}
 
 permissions:
@@ -24,6 +24,8 @@ jobs:
         run: npm install
 
       - name: Run job scan
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run fetch
 
       - name: Check for new jobs
