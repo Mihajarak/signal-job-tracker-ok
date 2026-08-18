@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **FLM** (RemoteOK, mifanaraka amin'ny "website")
-  https://remoteOK.com/remote-jobs/remote-flm-hovis-ltd-1136925
+- **Principal Data Engineer** (RemoteOK, mifanaraka amin'ny "full stack")
+  https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860
