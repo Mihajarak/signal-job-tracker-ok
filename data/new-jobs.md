@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Principal Data Engineer** (RemoteOK, mifanaraka amin'ny "full stack")
-  https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860
+- **What should I ask them when they say 'Do you have any questions for us ** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-what-should-i-ask-them-when-they-say-do-you-have-any-questions-for-us-baldwin-blueprint-1136933
