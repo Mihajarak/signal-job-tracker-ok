@@ -1,5 +1,13 @@
 [
   {
+    "title": "LaunchDarkly: Engineering Manager, Experimentation",
+    "link": "https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-experimentation",
+    "source": "We Work Remotely: Design Jobs",
+    "date": "2026-08-22T07:31:08.000Z",
+    "matchedKeyword": "backend",
+    "foundAt": "2026-08-22T07:36:58.642Z"
+  },
+  {
     "title": "Store Manager Bunbury",
     "link": "https://remoteOK.com/remote-jobs/remote-store-manager-bunbury-retail-fx-1137042",
     "source": "RemoteOK",
@@ -720,6 +728,22 @@
     "foundAt": "2026-08-11T04:20:32.705Z"
   },
   {
+    "title": "SuperPlane: Product Engineer",
+    "link": "https://weworkremotely.com/remote-jobs/superplane-product-engineer-1",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-31T13:30:28.000Z",
+    "matchedKeyword": "frontend",
+    "foundAt": "2026-08-22T07:36:58.640Z"
+  },
+  {
+    "title": "Hygraph: Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
+    "link": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-31T11:59:36.000Z",
+    "matchedKeyword": "website",
+    "foundAt": "2026-08-22T07:36:58.640Z"
+  },
+  {
     "title": "Maven Clinic: Design Lead, Consumer",
     "link": "https://weworkremotely.com/remote-jobs/maven-clinic-design-lead-consumer",
     "source": "We Work Remotely: Design Jobs",
@@ -768,6 +792,94 @@
     "foundAt": "2026-08-11T04:20:32.699Z"
   },
   {
+    "title": "OnTheGoSystems: AI-Native Software Developer",
+    "link": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-27T14:16:33.000Z",
+    "matchedKeyword": "website",
+    "foundAt": "2026-08-22T07:36:58.640Z"
+  },
+  {
+    "title": "Lemon.io: Senior Vue Developer",
+    "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T14:27:38.000Z",
+    "matchedKeyword": "front-end",
+    "foundAt": "2026-08-22T07:36:58.640Z"
+  },
+  {
+    "title": "Yoko Co: Front-End WordPress Developer",
+    "link": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T14:03:46.000Z",
+    "matchedKeyword": "website",
+    "foundAt": "2026-08-22T07:36:58.640Z"
+  },
+  {
+    "title": "JetBrains: Backend Customer Success Engineer (Kotlin Ecosystem)",
+    "link": "https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T07:01:22.000Z",
+    "matchedKeyword": "backend",
+    "foundAt": "2026-08-22T07:36:58.640Z"
+  },
+  {
+    "title": "LaunchDarkly: Backend Engineer, Flag Delivery",
+    "link": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T07:01:12.000Z",
+    "matchedKeyword": "backend",
+    "foundAt": "2026-08-22T07:36:58.640Z"
+  },
+  {
+    "title": "Coinbase: Senior Staff Software Engineer, Legal Automation",
+    "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-legal-automation",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T07:01:02.000Z",
+    "matchedKeyword": "backend",
+    "foundAt": "2026-08-22T07:36:58.641Z"
+  },
+  {
+    "title": "Coinbase: Senior Staff Software Engineer, Finance Automation",
+    "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-finance-automation",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T07:00:51.000Z",
+    "matchedKeyword": "backend",
+    "foundAt": "2026-08-22T07:36:58.641Z"
+  },
+  {
+    "title": "Twilio: Senior Software Engineer, Identity",
+    "link": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-identity",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T07:00:51.000Z",
+    "matchedKeyword": "backend",
+    "foundAt": "2026-08-22T07:36:58.641Z"
+  },
+  {
+    "title": "GitLab: AI Engineer",
+    "link": "https://weworkremotely.com/remote-jobs/gitlab-ai-engineer",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T07:00:48.000Z",
+    "matchedKeyword": "typescript",
+    "foundAt": "2026-08-22T07:36:58.641Z"
+  },
+  {
+    "title": "Twilio: Senior Software Engineer, Fraud",
+    "link": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-fraud",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T07:00:48.000Z",
+    "matchedKeyword": "javascript",
+    "foundAt": "2026-08-22T07:36:58.641Z"
+  },
+  {
+    "title": "Coinbase: Senior Software Engineer, Data Layer",
+    "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-24T05:20:50.000Z",
+    "matchedKeyword": "frontend",
+    "foundAt": "2026-08-22T07:36:58.641Z"
+  },
+  {
     "title": "Trust Based Mobility: Video Editing Specialist (Direct-Response / AI Video Editor)",
     "link": "https://weworkremotely.com/remote-jobs/trust-based-mobility-video-editing-specialist-direct-response-ai-video-editor",
     "source": "We Work Remotely: Design Jobs",
@@ -790,6 +902,30 @@
     "date": "2026-07-23T13:29:40.000Z",
     "matchedKeyword": "web development",
     "foundAt": "2026-08-11T04:20:32.700Z"
+  },
+  {
+    "title": "REDspace: Senior Software Developer - Ad Tech",
+    "link": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-23T13:29:27.000Z",
+    "matchedKeyword": "web development",
+    "foundAt": "2026-08-22T07:36:58.642Z"
+  },
+  {
+    "title": "cFive Solutions: Senior Web Developer/Software Engineer",
+    "link": "https://weworkremotely.com/remote-jobs/cfive-solutions-senior-web-developer-software-engineer",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-23T13:29:27.000Z",
+    "matchedKeyword": "web developer",
+    "foundAt": "2026-08-22T07:36:58.642Z"
+  },
+  {
+    "title": "Business Web Solutions: Web Developer Intern",
+    "link": "https://weworkremotely.com/remote-jobs/business-web-solutions-web-developer-intern",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-07-23T13:29:27.000Z",
+    "matchedKeyword": "web developer",
+    "foundAt": "2026-08-22T07:36:58.642Z"
   },
   {
     "title": "Penn Interactive: Web Developer, Casino",
@@ -1184,11 +1320,27 @@
     "foundAt": "2026-08-11T04:20:32.695Z"
   },
   {
+    "title": "Reveleer: Full Stack AI Engineer",
+    "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2026-04-02T20:46:00.000Z",
+    "matchedKeyword": "frontend",
+    "foundAt": "2026-08-22T07:36:58.640Z"
+  },
+  {
     "title": "Stellar AI: Senior Software Engineer",
     "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
     "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
     "date": "2025-10-21T19:36:26.000Z",
     "matchedKeyword": "javascript",
     "foundAt": "2026-08-11T04:20:32.695Z"
+  },
+  {
+    "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
+    "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
+    "date": "2024-05-13T03:14:30.000Z",
+    "matchedKeyword": "web development",
+    "foundAt": "2026-08-22T07:36:58.640Z"
   }
 ]
