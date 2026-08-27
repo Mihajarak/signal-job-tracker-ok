@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Ramp Attendant** (RemoteOK, mifanaraka amin'ny "website")
-  https://remoteOK.com/remote-jobs/remote-ramp-attendant-swissport-1137140
+- **Video Editor** (RemoteOK, mifanaraka amin'ny "video editing")
+  https://remoteOK.com/remote-jobs/remote-video-editor-locals-1137158
