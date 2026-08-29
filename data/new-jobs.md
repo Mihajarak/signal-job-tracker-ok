@@ -1,4 +1,7 @@
-Nisy asa vaovao 1 hita:
+Nisy asa vaovao 2 hita:
 
-- **Maintenance Operative** (RemoteOK, mifanaraka amin'ny "react")
-  https://remoteOK.com/remote-jobs/remote-maintenance-operative-scape-1137208
+- **Senior React Full-stack Developer** (Remotive, mifanaraka amin'ny "backend")
+  https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101
+
+- **courier** (RemoteOK, mifanaraka amin'ny "content writing")
+  https://remoteOK.com/remote-jobs/remote-courier-fedex-1137195
