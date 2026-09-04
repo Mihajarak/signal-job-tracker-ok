@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Samsara: Staff Software Engineer** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "frontend")
-  https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer
+- **Store Manager BOSS Store Plaza Las Americas** (RemoteOK, mifanaraka amin'ny "react")
+  https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301
