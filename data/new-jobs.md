@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Senior .NET Full-stack Developer** (Remotive, mifanaraka amin'ny "fullstack")
-  https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130
+- **Senior Shopify Developer** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405
