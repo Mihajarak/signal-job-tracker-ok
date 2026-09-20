@@ -1,4 +1,10 @@
-Nisy asa vaovao 1 hita:
+Nisy asa vaovao 3 hita:
 
-- **Legion: Director of Production Engineering** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "mobile app")
-  https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering
+- **Frontend Web Application Developer** (Remotive, mifanaraka amin'ny "frontend")
+  https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141
+
+- **Senior Shopify Developer** (Remotive, mifanaraka amin'ny "website")
+  https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140
+
+- **Senior AI Engineer** (Remotive, mifanaraka amin'ny "next.js")
+  https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131
