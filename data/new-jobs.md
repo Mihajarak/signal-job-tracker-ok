@@ -1,4 +1,7 @@
-Nisy asa vaovao 1 hita:
+Nisy asa vaovao 2 hita:
 
-- **Reddit: Backend Engineer, IAM** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "backend")
-  https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam
+- **IxDF - Interaction Design Foundation: Course Writer and Editor: UX, UI, and AI ** (We Work Remotely: Design Jobs, mifanaraka amin'ny "video editor")
+  https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1
+
+- **IxDF - Interaction Design Foundation: Education Designer: UX, UI, and AI ** (We Work Remotely: Design Jobs, mifanaraka amin'ny "video editor")
+  https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1
