@@ -1,4 +1,7 @@
-Nisy asa vaovao 1 hita:
+Nisy asa vaovao 2 hita:
 
-- **Air Apps: Framer Website Designer** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "website")
-  https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1
+- **Academic Dean for MiaPrep Online Academy of Ohio** (RemoteOK, mifanaraka amin'ny "content writing")
+  https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479
+
+- **Product Engineering Lead** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
