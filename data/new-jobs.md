@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Senior Sales Executive Central Region** (RemoteOK, mifanaraka amin'ny "content writing")
-  https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498
+- **bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "web development")
+  https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript
