@@ -1,7 +1,4 @@
-Nisy asa vaovao 2 hita:
+Nisy asa vaovao 1 hita:
 
-- **Principal Software Engineer** (RemoteOK, mifanaraka amin'ny "backend")
-  https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508
-
-- **Graphic Designer & Video Editor** (RemoteOK, mifanaraka amin'ny "web developer")
-  https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507
+- **HR Plus: Web Developer (Fresh graduate welcome, WFH policy, on-job-training)** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "web developer")
+  https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training
