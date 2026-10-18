@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Software Engineer AI Coding Tasks** (RemoteOK, mifanaraka amin'ny "typescript")
-  https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
+- **Technical Account Manager** (RemoteOK, mifanaraka amin'ny "javascript")
+  https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540
