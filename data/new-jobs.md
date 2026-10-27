@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Senior Software Engineer LATAM** (RemoteOK, mifanaraka amin'ny "react")
-  https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
+- **Lemon.io: Senior Angular Full-stack Developer** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "front-end")
+  https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer
