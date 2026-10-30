@@ -1,7 +1,7 @@
 Nisy asa vaovao 2 hita:
 
-- **Vercel: Software Engineer, Backend** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "backend")
-  https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend
+- **Thatch: Brand Designer ** (We Work Remotely: Design Jobs, mifanaraka amin'ny "website")
+  https://weworkremotely.com/remote-jobs/thatch-brand-designer
 
-- **Maven Clinic: Client Success Manager** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "react")
-  https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager
+- **Front End Developer** (RemoteOK, mifanaraka amin'ny "web development")
+  https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597
