@@ -1,7 +1,7 @@
 Nisy asa vaovao 2 hita:
 
-- **Thatch: Brand Designer ** (We Work Remotely: Design Jobs, mifanaraka amin'ny "website")
-  https://weworkremotely.com/remote-jobs/thatch-brand-designer
+- **Toptal: Full-Stack E-commerce Developer with Sage X3 Experience** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "javascript")
+  https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience
 
-- **Front End Developer** (RemoteOK, mifanaraka amin'ny "web development")
-  https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597
+- **Keeper Security: Creative Localization Specialist** (We Work Remotely: Design Jobs, mifanaraka amin'ny "after effects")
+  https://weworkremotely.com/remote-jobs/keeper-security-creative-localization-specialist
