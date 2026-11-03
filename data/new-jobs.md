@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Software Engineer Infrastructure** (RemoteOK, mifanaraka amin'ny "full stack")
-  https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614
+- **Upgrade: AI Experience Engineer (Conversational AI)** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "frontend")
+  https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai
