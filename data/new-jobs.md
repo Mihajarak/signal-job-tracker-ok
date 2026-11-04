@@ -1,4 +1,7 @@
-Nisy asa vaovao 1 hita:
+Nisy asa vaovao 2 hita:
 
-- **Askable: Software Engineer, AI Coding Tasks (Contract) ** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "typescript")
-  https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract
+- **Paid Media Manager US ** (RemoteOK, mifanaraka amin'ny "content writing")
+  https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675
+
+- **Tech lead** (RemoteOK, mifanaraka amin'ny "frontend")
+  https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673
