@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Client Accounting Division Manager** (RemoteOK, mifanaraka amin'ny "content writing")
-  https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621
+- **Askable: Software Engineer, AI Coding Tasks (Contract) ** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "typescript")
+  https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract
