@@ -1,7 +1,7 @@
 Nisy asa vaovao 2 hita:
 
-- **Alloy: Founding Forward Deployed Engineer** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "website")
-  https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer
+- **Senior Product Manager** (RemoteOK, mifanaraka amin'ny "content writing")
+  https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705
 
-- **Airbnb: Operations Engineer, BizTech** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "typescript")
-  https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech
+- **UI Developer** (RemoteOK, mifanaraka amin'ny "web development")
+  https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704
