@@ -1,4 +1,4 @@
 Nisy asa vaovao 1 hita:
 
-- **Bilingual Patient Engagement Specialist I English Spanish** (RemoteOK, mifanaraka amin'ny "website")
-  https://remoteOK.com/remote-jobs/remote-bilingual-patient-engagement-specialist-i-english-spanish-sprinter-health-1137716
+- **Senior React Full-stack Developer** (Remotive, mifanaraka amin'ny "fullstack")
+  https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136
