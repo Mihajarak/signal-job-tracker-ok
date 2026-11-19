@@ -1,13 +1,13 @@
 Nisy asa vaovao 4 hita:
 
-- **Reddit: Frontend Engineer, Ads** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "frontend")
-  https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads
+- **Bitovi: Backend / Platform Developer Consultant (Temporal & Kubernetes)** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "backend")
+  https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes
 
-- **SHIRVANO: Graphic Design Intern (Remote)** (We Work Remotely: Design Jobs, mifanaraka amin'ny "video editing")
-  https://weworkremotely.com/remote-jobs/shirvano-graphic-design-intern-remote
+- **Legion: Senior Integration Engineer** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "backend")
+  https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer
 
-- **Lightbox Animation: Senior Sets&Props Surface Artist** (We Work Remotely: Design Jobs, mifanaraka amin'ny "react")
-  https://weworkremotely.com/remote-jobs/lightbox-animation-senior-sets-props-surface-artist
+- **Cambridge Information Group Inc: Front-End Developer** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "web development")
+  https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer
 
-- **Lightbox Animation: Senior Sets&Props Concept Artist** (We Work Remotely: Design Jobs, mifanaraka amin'ny "react")
-  https://weworkremotely.com/remote-jobs/lightbox-animation-senior-sets-props-concept-artist
+- **SimpleTiger: Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "web developer")
+  https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor
