@@ -1,22 +1,19 @@
-Nisy asa vaovao 7 hita:
+Nisy asa vaovao 6 hita:
 
-- **Senior DevOps Engineer II - Europe** (RemoteOK, mifanaraka amin'ny "website")
-  https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-ii-europe-storyblok-1137887
+- **WelcomeHome Software: Senior Software Engineer** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "frontend")
+  https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer
 
-- **PreSales Solutions Engineer** (RemoteOK, mifanaraka amin'ny "react")
-  https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877
+- **Senior Manager, Product Analytics (Growth)** (RemoteOK, mifanaraka amin'ny "android")
+  https://remoteOK.com/remote-jobs/remote-senior-manager-product-analytics-growth-ifit-1137912
 
-- **Senior Atlassian Cloud Administrator** (RemoteOK, mifanaraka amin'ny "javascript")
-  https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-administrator-dropbox-1137874
+- **Customer Success Manager** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-customer-success-manager-salsify-1137909
 
-- **Product Designer** (RemoteOK, mifanaraka amin'ny "front-end")
-  https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873
+- **Global Tax Manager** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-global-tax-manager-ensono-1137907
 
-- **Senior Software Developer - Canada** (RemoteOK, mifanaraka amin'ny "frontend")
-  https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872
+- **Senior Product Architect** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-senior-product-architect-storyblok-1137900
 
-- **Senior Product Engineer** (RemoteOK, mifanaraka amin'ny "backend")
-  https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865
-
-- **Business Development Specialist Arabic speaker** (RemoteOK, mifanaraka amin'ny "react")
-  https://remoteOK.com/remote-jobs/remote-business-development-specialist-arabic-speaker-fp-markets-1137863
+- **Staff Security Engineer - AppSec** (RemoteOK, mifanaraka amin'ny "javascript")
+  https://remoteOK.com/remote-jobs/remote-staff-security-engineer-appsec-6sense-1137897
