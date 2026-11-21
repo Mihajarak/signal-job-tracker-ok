@@ -1,28 +1,22 @@
-Nisy asa vaovao 9 hita:
+Nisy asa vaovao 7 hita:
 
-- **Senior Atlassian Cloud Admininstrator** (RemoteOK, mifanaraka amin'ny "javascript")
-  https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860
+- **Senior DevOps Engineer II - Europe** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-ii-europe-storyblok-1137887
 
-- **Infrastructure Software Engineer** (RemoteOK, mifanaraka amin'ny "backend")
-  https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857
+- **PreSales Solutions Engineer** (RemoteOK, mifanaraka amin'ny "react")
+  https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877
 
-- **Senior Software Engineer** (RemoteOK, mifanaraka amin'ny "frontend")
-  https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tebra-1137856
+- **Senior Atlassian Cloud Administrator** (RemoteOK, mifanaraka amin'ny "javascript")
+  https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-administrator-dropbox-1137874
 
-- **Senior Software Engineer: Assets** (RemoteOK, mifanaraka amin'ny "website")
-  https://remoteOK.com/remote-jobs/remote-senior-software-engineer-assets-metamask-1137854
+- **Product Designer** (RemoteOK, mifanaraka amin'ny "front-end")
+  https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873
 
-- **Engineering Lead, Growth** (RemoteOK, mifanaraka amin'ny "website")
-  https://remoteOK.com/remote-jobs/remote-engineering-lead-growth-clover-health-1137853
+- **Senior Software Developer - Canada** (RemoteOK, mifanaraka amin'ny "frontend")
+  https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872
 
-- **Engineering Lead, Clinical Operations** (RemoteOK, mifanaraka amin'ny "backend")
-  https://remoteOK.com/remote-jobs/remote-engineering-lead-clinical-operations-clover-health-1137852
+- **Senior Product Engineer** (RemoteOK, mifanaraka amin'ny "backend")
+  https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865
 
-- **Senior GTM Engineer** (RemoteOK, mifanaraka amin'ny "javascript")
-  https://remoteOK.com/remote-jobs/remote-senior-gtm-engineer-salesloft-1137851
-
-- **Engineering Manager, External Search & AI Optimization** (RemoteOK, mifanaraka amin'ny "frontend")
-  https://remoteOK.com/remote-jobs/remote-engineering-manager-external-search-ai-optimization-airbnb-1137848
-
-- **Engineering Manager, Product Engineering** (RemoteOK, mifanaraka amin'ny "react")
-  https://remoteOK.com/remote-jobs/remote-engineering-manager-product-engineering-lattice-1137847
+- **Business Development Specialist Arabic speaker** (RemoteOK, mifanaraka amin'ny "react")
+  https://remoteOK.com/remote-jobs/remote-business-development-specialist-arabic-speaker-fp-markets-1137863
