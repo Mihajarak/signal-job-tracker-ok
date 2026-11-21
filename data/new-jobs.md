@@ -1,31 +1,28 @@
-Nisy asa vaovao 10 hita:
+Nisy asa vaovao 9 hita:
 
-- **Knock: Lending Manager (Front End) - Remote** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "front-end")
-  https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote
+- **Senior Atlassian Cloud Admininstrator** (RemoteOK, mifanaraka amin'ny "javascript")
+  https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860
 
-- **Content Reviewer - United States** (Remotive, mifanaraka amin'ny "android")
-  https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177
+- **Infrastructure Software Engineer** (RemoteOK, mifanaraka amin'ny "backend")
+  https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857
 
-- **Customer Service Representative** (Remotive, mifanaraka amin'ny "website")
-  https://remotive.com/remote-jobs/customer-service/customer-service-representative-2091171
+- **Senior Software Engineer** (RemoteOK, mifanaraka amin'ny "frontend")
+  https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tebra-1137856
 
-- **Velocity, Sales Director - USA & Europe** (RemoteOK, mifanaraka amin'ny "website")
-  https://remoteOK.com/remote-jobs/remote-velocity-sales-director-usa-europe-storyblok-1137845
+- **Senior Software Engineer: Assets** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-senior-software-engineer-assets-metamask-1137854
 
-- **Staff Software Engineer (Interfaces)** (RemoteOK, mifanaraka amin'ny "web development")
-  https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844
+- **Engineering Lead, Growth** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-engineering-lead-growth-clover-health-1137853
 
-- **Technical Lead Norm Compliance** (RemoteOK, mifanaraka amin'ny "website")
-  https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835
+- **Engineering Lead, Clinical Operations** (RemoteOK, mifanaraka amin'ny "backend")
+  https://remoteOK.com/remote-jobs/remote-engineering-lead-clinical-operations-clover-health-1137852
 
-- **Front-End Engineer, UX/UI** (RemoteOK, mifanaraka amin'ny "web development")
-  https://remoteOK.com/remote-jobs/remote-front-end-engineer-ux-ui-beyondtrust-1137833
+- **Senior GTM Engineer** (RemoteOK, mifanaraka amin'ny "javascript")
+  https://remoteOK.com/remote-jobs/remote-senior-gtm-engineer-salesloft-1137851
 
-- **Revenue Enablement Manager** (RemoteOK, mifanaraka amin'ny "mobile app")
-  https://remoteOK.com/remote-jobs/remote-revenue-enablement-manager-legion-1137825
+- **Engineering Manager, External Search & AI Optimization** (RemoteOK, mifanaraka amin'ny "frontend")
+  https://remoteOK.com/remote-jobs/remote-engineering-manager-external-search-ai-optimization-airbnb-1137848
 
-- **Designated Technical Support Engineer - West** (RemoteOK, mifanaraka amin'ny "react")
-  https://remoteOK.com/remote-jobs/remote-designated-technical-support-engineer-west-glean-1137820
-
-- **Briefing Content Strategist** (RemoteOK, mifanaraka amin'ny "copywriting")
-  https://remoteOK.com/remote-jobs/remote-briefing-content-strategist-stripe-1137812
+- **Engineering Manager, Product Engineering** (RemoteOK, mifanaraka amin'ny "react")
+  https://remoteOK.com/remote-jobs/remote-engineering-manager-product-engineering-lattice-1137847
