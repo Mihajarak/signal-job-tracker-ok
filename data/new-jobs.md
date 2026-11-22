@@ -1,7 +1,7 @@
 Nisy asa vaovao 2 hita:
 
-- **Staff Software Engineer, Agentic Tools** (RemoteOK, mifanaraka amin'ny "backend")
-  https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955
+- **Lightbox Animation: Senior Storyboard Artist** (We Work Remotely: Design Jobs, mifanaraka amin'ny "react")
+  https://weworkremotely.com/remote-jobs/lightbox-animation-senior-storyboard-artist
 
-- **Senior Software Engineer, Partner Integrations** (RemoteOK, mifanaraka amin'ny "backend")
-  https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954
+- **Lightbox Animation: Senior Matte Painter** (We Work Remotely: Design Jobs, mifanaraka amin'ny "react")
+  https://weworkremotely.com/remote-jobs/lightbox-animation-senior-matte-painter
