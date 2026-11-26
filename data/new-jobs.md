@@ -1,19 +1,22 @@
-Nisy asa vaovao 6 hita:
-
-- **Karat: Software Engineer Interviewer** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "website")
-  https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer
-
-- **Golden 1 Credit Union: Web Applications Programmer II (Sitecore Development Required)** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "web development")
-  https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required
+Nisy asa vaovao 7 hita:
 
 - **Storetasker: Senior Shopify Developer (Remote + Flexible)** (We Work Remotely: Remote jobs in design, programming, marketing and more, mifanaraka amin'ny "web development")
   https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3
 
-- **Technical Customer Success Manager - xMatters** (RemoteOK, mifanaraka amin'ny "javascript")
-  https://remoteOK.com/remote-jobs/remote-technical-customer-success-manager-xmatters-everbridge-1138113
+- **Silverback Strategies: Senior Motion & Graphic Designer (Remote)** (We Work Remotely: Design Jobs, mifanaraka amin'ny "photography")
+  https://weworkremotely.com/remote-jobs/silverback-strategies-senior-motion-graphic-designer-remote
 
-- **Knowledge Engineer** (RemoteOK, mifanaraka amin'ny "javascript")
-  https://remoteOK.com/remote-jobs/remote-knowledge-engineer-jobgether-1138105
+- **Creative Director** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-creative-director-luxury-presence-1138146
 
-- **Intermediate Security Engineer, Security Incident Response Team (SIRT)** (RemoteOK, mifanaraka amin'ny "react")
-  https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104
+- **Lifecycle Marketing Manager** (RemoteOK, mifanaraka amin'ny "react")
+  https://remoteOK.com/remote-jobs/remote-lifecycle-marketing-manager-lifeforce-1138144
+
+- **B2B Sales Representative (Legal Industry) Part-time | 21428** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-b2b-sales-representative-legal-industry-part-time-21428-wing-1138133
+
+- **Commercial Account Executive** (RemoteOK, mifanaraka amin'ny "mobile app")
+  https://remoteOK.com/remote-jobs/remote-commercial-account-executive-apryse-1138127
+
+- **Paid Media Specialist** (RemoteOK, mifanaraka amin'ny "website")
+  https://remoteOK.com/remote-jobs/remote-paid-media-specialist-kinsta-1138126
