@@ -1,11 +1,59 @@
 [
   {
+    "title": "Demo Specialist I",
+    "link": "https://remoteOK.com/remote-jobs/remote-demo-specialist-i-highlevel-1138228",
+    "source": "RemoteOK",
+    "date": "2026-11-27T10:00:31+00:00",
+    "matchedKeyword": "website",
+    "foundAt": "2026-11-28T11:32:44.443Z"
+  },
+  {
+    "title": "Account Manager II",
+    "link": "https://remoteOK.com/remote-jobs/remote-account-manager-ii-highlevel-1138227",
+    "source": "RemoteOK",
+    "date": "2026-11-27T09:00:38+00:00",
+    "matchedKeyword": "website",
+    "foundAt": "2026-11-28T11:32:44.443Z"
+  },
+  {
+    "title": "Diagnostic Specialist - Appalachia",
+    "link": "https://remoteOK.com/remote-jobs/remote-diagnostic-specialist-appalachia-eversana-1138224",
+    "source": "RemoteOK",
+    "date": "2026-11-27T07:00:45+00:00",
+    "matchedKeyword": "website",
+    "foundAt": "2026-11-28T11:32:44.443Z"
+  },
+  {
     "title": "Stripe: Creative Engineer, Stripe Creative Lab",
     "link": "https://weworkremotely.com/remote-jobs/stripe-creative-engineer-stripe-creative-lab",
     "source": "We Work Remotely: Design Jobs",
     "date": "2026-11-27T06:01:27.000Z",
     "matchedKeyword": "website",
     "foundAt": "2026-11-27T11:17:09.360Z"
+  },
+  {
+    "title": "Senior Microsoft Dynamics 365 Consultant",
+    "link": "https://remoteOK.com/remote-jobs/remote-senior-microsoft-dynamics-365-consultant-version-1-1138219",
+    "source": "RemoteOK",
+    "date": "2026-11-27T05:20:59+00:00",
+    "matchedKeyword": "typescript",
+    "foundAt": "2026-11-28T11:32:44.444Z"
+  },
+  {
+    "title": "Founding Engineer",
+    "link": "https://remoteOK.com/remote-jobs/remote-founding-engineer-3y-health-1138213",
+    "source": "RemoteOK",
+    "date": "2026-11-27T03:20:38+00:00",
+    "matchedKeyword": "frontend",
+    "foundAt": "2026-11-28T11:32:44.445Z"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-3y-health-1138212",
+    "source": "RemoteOK",
+    "date": "2026-11-27T03:00:43+00:00",
+    "matchedKeyword": "frontend",
+    "foundAt": "2026-11-28T11:32:44.445Z"
   },
   {
     "title": "Software Engineer - Backend",
@@ -3950,53 +3998,5 @@
     "date": "2026-07-23T13:29:27.000Z",
     "matchedKeyword": "web development",
     "foundAt": "2026-08-22T07:36:58.642Z"
-  },
-  {
-    "title": "cFive Solutions: Senior Web Developer/Software Engineer",
-    "link": "https://weworkremotely.com/remote-jobs/cfive-solutions-senior-web-developer-software-engineer",
-    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
-    "date": "2026-07-23T13:29:27.000Z",
-    "matchedKeyword": "web developer",
-    "foundAt": "2026-08-22T07:36:58.642Z"
-  },
-  {
-    "title": "Business Web Solutions: Web Developer Intern",
-    "link": "https://weworkremotely.com/remote-jobs/business-web-solutions-web-developer-intern",
-    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
-    "date": "2026-07-23T13:29:27.000Z",
-    "matchedKeyword": "web developer",
-    "foundAt": "2026-08-22T07:36:58.642Z"
-  },
-  {
-    "title": "Penn Interactive: Web Developer, Casino",
-    "link": "https://weworkremotely.com/remote-jobs/penn-interactive-web-developer-casino",
-    "source": "We Work Remotely: Design Jobs",
-    "date": "2026-07-23T13:29:27.000Z",
-    "matchedKeyword": "web developer",
-    "foundAt": "2026-08-11T04:20:32.700Z"
-  },
-  {
-    "title": "Coinbase: Senior Software Engineer, Backend (Consumer - Risk)",
-    "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-consumer-risk",
-    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
-    "date": "2026-07-23T07:03:54.000Z",
-    "matchedKeyword": "backend",
-    "foundAt": "2026-08-21T13:53:35.789Z"
-  },
-  {
-    "title": "Coinbase: Senior Software Engineer, Backend - Platform (Core AI Automation)",
-    "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-platform-core-ai-automation",
-    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
-    "date": "2026-07-23T07:03:54.000Z",
-    "matchedKeyword": "backend",
-    "foundAt": "2026-08-21T07:25:10.550Z"
-  },
-  {
-    "title": "Twilio: Senior Engineering Manager V&V Media",
-    "link": "https://weworkremotely.com/remote-jobs/twilio-senior-engineering-manager-v-v-media-1",
-    "source": "We Work Remotely: Remote jobs in design, programming, marketing and more",
-    "date": "2026-07-23T07:03:38.000Z",
-    "matchedKeyword": "backend",
-    "foundAt": "2026-08-21T07:25:10.550Z"
   }
 ]
